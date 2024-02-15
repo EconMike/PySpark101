@@ -1,9 +1,3 @@
 # PySpark101
 
-
-1.	What is Apache Spark
-2.	PySpark
-    a.	RDD
-    b.	Dataframe 
-    c.	SQL
-    e.	Machine  Learning- MLlib
+This is a series of workshop devoted to understanding the use of PySpark for supporting data processing and analysis. 
